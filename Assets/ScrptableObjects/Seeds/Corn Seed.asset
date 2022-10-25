@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9d0aad859f025ef489e5a3903bb98d62, type: 3}
+  m_Name: Corn Seed
+  m_EditorClassIdentifier: 
+  description: Can grow into a plant ingredient that can be used to make Acid Bottles.
+  thumbnail: {fileID: -4752753840283114535, guid: b30555c40875d3c46b258d1d1c2887aa, type: 3}
+  gameModel: {fileID: 0}
+  timeToGrow: 1
+  cropToYield: {fileID: 11400000, guid: eecf2fd1eef537848824c0c543c00b52, type: 2}
+  seedling: {fileID: 1000012235373026, guid: 1c8776a0b36cd9a4f813bf0d2d59d109, type: 3}

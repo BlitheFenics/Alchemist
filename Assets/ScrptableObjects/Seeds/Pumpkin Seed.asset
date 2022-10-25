@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9d0aad859f025ef489e5a3903bb98d62, type: 3}
+  m_Name: Pumpkin Seed
+  m_EditorClassIdentifier: 
+  description: Can grow into a plant ingredient that can be used to make Healing
+    Potions.
+  thumbnail: {fileID: 3786346274397003460, guid: b30555c40875d3c46b258d1d1c2887aa, type: 3}
+  gameModel: {fileID: 0}
+  timeToGrow: 1
+  cropToYield: {fileID: 11400000, guid: b518d329577455b42826e7bbaa44eeff, type: 2}
+  seedling: {fileID: 1000010824186820, guid: 30319199574ca3644bf3898bb5cac486, type: 3}

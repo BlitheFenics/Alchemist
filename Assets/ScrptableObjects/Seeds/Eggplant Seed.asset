@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9d0aad859f025ef489e5a3903bb98d62, type: 3}
+  m_Name: Eggplant Seed
+  m_EditorClassIdentifier: 
+  description: Can grow into a plant ingredient that can be used to make Speed Potions.
+  thumbnail: {fileID: 5479641139906911069, guid: b30555c40875d3c46b258d1d1c2887aa, type: 3}
+  gameModel: {fileID: 0}
+  timeToGrow: 1
+  cropToYield: {fileID: 11400000, guid: 163a51963ccc4a8449e46807e0d7b208, type: 2}
+  seedling: {fileID: 1000012171661116, guid: 97c7589824dbbb24cbc2b95a9345ebb1, type: 3}
